@@ -29,7 +29,7 @@ You can find the database migration SQL files in `migrations` folder.
 Refer to the table below for environment variables used in AB-Hack :
 
   | Configuration | Example Value | Description | Required |
-      | ------------- | ------------- | ----------- | ----------- |
+  | ------------- | ------------- | ----------- | ----------- |
   | <SERVER_BASE_PATH> | /api | AB-Hack base URL | false |
   | <SERVER_PORT> | 8080 | AB-Hack exposed port | false |
   | <DB_USERNAME> | userA | Postgres Username | true |
